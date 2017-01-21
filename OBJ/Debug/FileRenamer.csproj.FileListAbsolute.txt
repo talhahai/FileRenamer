@@ -1,0 +1,16 @@
+D:\BSCS\Semester 5\FileRenamer\bin\Debug\FileRenamer.exe
+D:\BSCS\Semester 5\FileRenamer\bin\Debug\FileRenamer.pdb
+D:\BSCS\Semester 5\FileRenamer\obj\Debug\ResolveAssemblyReference.cache
+D:\BSCS\Semester 5\FileRenamer\obj\Debug\FileRenamer.Form1.resources
+D:\BSCS\Semester 5\FileRenamer\obj\Debug\FileRenamer.Properties.Resources.resources
+D:\BSCS\Semester 5\FileRenamer\obj\Debug\FileRenamer.csproj.GenerateResource.Cache
+D:\BSCS\Semester 5\FileRenamer\obj\Debug\FileRenamer.exe
+D:\BSCS\Semester 5\FileRenamer\obj\Debug\FileRenamer.pdb
+D:\BSCS\Projects\File Renamer\obj\Debug\FileRenamer.exe
+D:\BSCS\Projects\File Renamer\obj\Debug\FileRenamer.pdb
+D:\BSCS\Projects\File Renamer\bin\Debug\FileRenamer.exe
+D:\BSCS\Projects\File Renamer\bin\Debug\FileRenamer.pdb
+D:\BSCS\Projects\File Renamer\obj\Debug\FileRenamer.Form1.resources
+D:\BSCS\Projects\File Renamer\obj\Debug\FileRenamer.Properties.Resources.resources
+D:\BSCS\Projects\File Renamer\obj\Debug\FileRenamer.csproj.GenerateResource.Cache
+D:\BSCS\Projects\File Renamer\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
